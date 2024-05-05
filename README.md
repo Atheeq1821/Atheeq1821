@@ -4,14 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+<h3 align="left">My Works :</h3>
 
-- 🔭 I'm currently building **Automatic Text Summarizer**
+- 🔭 I'm currently building  : - **Automatic Text Summarizer**
 
-- 📈 Data Science **Soil-driven crop prediction & Alternate Farming**
+- 📈 Data Science : - **Soil-driven crop prediction & Alternate Farming**
 
-- 🤖 Artificial Intelligence **Monte Carlo AI for Tic-Tac-Toe**
+- 🤖 Artificial Intelligence : - **Monte Carlo AI for Tic-Tac-Toe**
 
-- 🖥️ Machine Learning **Streamlined student performance tracker with modular design**
+- 🖥️ Machine Learning  : - **Streamlined student performance tracker with modular design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atheeq1821](https://github.com/Atheeq1821)
 
