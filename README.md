@@ -6,7 +6,7 @@
 
 <h3 align="left">My Works :</h3>
 
-- 🔭 My recent work : - **Gen Ia based Automated Project report**
+- 🔭 My recent work : - **Gen AI based Automated Project report**
 
 - 📈 Data Science : - **Soil-driven crop prediction & Alternate Farming**
 
