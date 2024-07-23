@@ -6,7 +6,7 @@
 
 <h3 align="left">My Works :</h3>
 
-- 🔭 I'm currently building  : - **Automatic Text Summarizer**
+- 🔭 My recent work : - **Gen Ia based Automated Project report**
 
 - 📈 Data Science : - **Soil-driven crop prediction & Alternate Farming**
 
@@ -20,7 +20,7 @@
 
 - 📫 Email ID **syed21ad067@rmkcet.ac.in**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1kyTL9HjQGGpc_JMISrEazmSB0nv1nghi/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1yV_r6mw8I-FiI57GLgZ7v5UQSHPPt_tx/view?usp=drive_link)
 
 - ⚡ Fun fact **I once tried to debug my life, but it kept throwing exceptions**
 
@@ -52,5 +52,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atheeq1821&show_icons=true&locale=en&layout=compact" alt="atheeq1821" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atheeq1821&" alt="atheeq1821" /></p>
